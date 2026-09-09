@@ -37,9 +37,7 @@ Concepts
 
 📌 Featured Project
 
-🎨 Masterpiece Hub
-
-Art Gallery Management System
+🎨 Art Gallery Management System
 
 HTML • CSS • JavaScript • Java • JSP • MySQL
 
