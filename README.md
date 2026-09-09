@@ -1,42 +1,65 @@
-┌──────────────────────────────────────────────┐
-│ Rohan Gurav                                  │
-│                                              │
-│ 👋 Hi, I'm Rohan Gurav                       │
-│                                              │
-│ 💻 Aspiring Data Scientist | Java Developer  │
-│    | Problem Solver                          │
-│                                              │
-│ 🚀 About Me                                  │
-│ 🎓 Computer Science Student                  │
-│ 💻 Learning Java, Python & Full-Stack Dev    │
-│ 🧠 Practicing Data Structures & Algorithms   │
-│ 📊 Interested in Data Science, AI & ML       │
-│ 🌱 Improving my programming skills           │
-│ 🎯 Preparing for a career in IT              │
-│                                              │
-│ 🛠️ Tech Stack                               │
-│ [Java] [Python] [HTML] [CSS] [JavaScript]   │
-│ [MySQL] [DSA] [Problem Solving]             │
-│                                              │
-│ 📌 Featured Project                          │
-│ 🎨 Masterpiece Hub                           │
-│ Art Gallery Management System               │
-│                                              │
-│ 📚 Currently Learning                        │
-│ ☕ Core Java                                 │
-│ 🐍 Python                                    │
-│ 🧩 DSA                                      │
-│ 🌐 Full-Stack Development                    │
-│ 📊 Data Science                              │
-│ 🤖 AI & Machine Learning                     │
-│ 🗄️ SQL & Database Management                │
-│                                              │
-│ 🤝 Connect With Me                           │
-│                                              │
-│ 🔗 LinkedIn: Rohan Gurav                     │
-│    linkedin.com/in/rohan-gurav-02706131a     │
-│                                              │
-│ 📧 Email: rohangurav1718@gmail.com           │
-│                                              │
-│ ⭐ Thanks for visiting my profile!           │
-└──────────────────────────────────────────────┘
+👋 Hello, I'm Rohan Gurav
+
+       Aspiring Data Scientist | Java Developer
+                 | Problem Solver
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 About Me
+
+I'm a Computer Science student passionate about
+programming, problem solving and building projects.
+
+• 🎓 Computer Science Student
+• ☕ Learning Java & Python
+• 🧠 Practicing Data Structures & Algorithms
+• 📊 Interested in Data Science, AI & ML
+• 🌱 Currently improving my development skills
+• 🎯 Preparing for a career in IT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tech Stack
+
+Programming
+[ JAVA ] [ PYTHON ]
+
+Web Development
+[ HTML ] [ CSS ] [ JAVASCRIPT ]
+
+Database
+[ MYSQL ]
+
+Concepts
+[ DSA ] [ PROBLEM SOLVING ]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 Featured Project
+
+🎨 Masterpiece Hub
+
+Art Gallery Management System
+
+HTML • CSS • JavaScript • Java • JSP • MySQL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Currently Learning
+
+☕ Core Java
+🐍 Python
+🧩 Data Structures & Algorithms
+🌐 Full-Stack Development
+📊 Data Science
+🤖 AI & Machine Learning
+🗄️ SQL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🤝 Connect With Me
+
+ LinkedIn : https://www.linkedin.com/in/rohan-gurav-02706131a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+  Email - rohangurav1718@gmail.com
+
+⭐ Thanks for visiting my profile!
